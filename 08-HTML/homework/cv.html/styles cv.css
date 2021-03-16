@@ -1,0 +1,79 @@
+html{
+    display: inline-block;
+    max-width: 1200px;
+  margin: 0 auto
+}
+div{
+    float:left;
+}
+section{
+    font-size: 9px;
+    position: absolute;
+    margin-left:  320px;
+    margin-top: 60px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#title{
+    font-size: 20px;
+    margin-left: 300px;
+    text-decoration-line: underline;
+}
+h3{
+    color:gray;
+}
+#id1{
+    margin-left:  5px;
+}
+#id2{
+    margin-left: 15px;
+}
+#h3-1{
+    margin-left: -25px;
+}
+#h3-2{
+    margin-left: -25px;
+}
+#id3{
+    margin-left: -30px;
+}
+#id4{
+    margin-left: -4px;
+}
+#id5{
+    margin-left: -8px;
+}
+#h3-3{
+    margin-top: 30px;
+    margin-left: -100px;
+}
+.left0{
+    margin-left: -200px;
+}
+#left0{
+    margin-left: -200px;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 70px;
+    font-family:'Times New Roman', Times, serif;
+    background:url(https://wallpaperaccess.com/full/260170.png);
+    width: 100%;
+    border-style:dotted;
+    border-width: 2px;
+    border-color: black;
+}
+body{
+    position: relative;
+    background:url(https://wallpaperaccess.com/full/260170.png);
+    margin-bottom: 130px;
+}
+img{
+    position:absolute;
+    top:0;
+    left:0;
+    width: 190px;
+  height: 190px;
+  margin-left: 100px;
+}
