@@ -24,9 +24,6 @@ h3{
 #id1{
     margin-left:  5px;
 }
-#id2{
-    margin-left: 15px;
-}
 #h3-1{
     margin-left: -25px;
 }
@@ -36,20 +33,14 @@ h3{
 #id3{
     margin-left: -30px;
 }
-#id4{
-    margin-left: -4px;
-}
-#id5{
-    margin-left: -8px;
-}
 #h3-3{
     margin-top: 30px;
     margin-left: -100px;
 }
-.left0{
+.left{
     margin-left: -200px;
 }
-#left0{
+#left{
     margin-left: -200px;
 }
 footer{
